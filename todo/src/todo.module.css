@@ -1,0 +1,29 @@
+.input{
+    padding: .2rem 1.5rem;
+    
+    display: inline-block;
+    margin: 7px;
+    cursor: pointer;
+    transition: all ease .3s;
+    border-radius:8px ;
+
+
+
+}
+.input:hover{
+ background-color: #86C8BC;
+ color: white;
+}
+.btn{
+    background-color: transparent;
+    padding: .2rem 1rem;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all ease 500ms;
+    
+}
+.btn:hover{
+    background-color:#FF0032;
+    padding: .5rem 1.5rem;
+    color: white;
+}
